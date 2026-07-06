@@ -1,0 +1,30 @@
+{
+  "name": "gemini-vectorize",
+  "version": "1.0.0",
+  "description": "Batch-convert photos into print-ready SVG line art: Gemini \"nano banana\" image redraw, Recraft crisp-upscale + vectorize, and svg-color-rinse cleanup, all in one zero-dependency CLI.",
+  "type": "module",
+  "bin": {
+    "gemini-vectorize": "./gemini-vectorize.mjs"
+  },
+  "files": [
+    "gemini-vectorize.mjs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "gemini",
+    "nano-banana",
+    "recraft",
+    "svg",
+    "vectorize",
+    "line-art",
+    "image-to-svg",
+    "batch",
+    "cli",
+    "print"
+  ],
+  "author": "Dan Gaidula <dan@iceboxind.com>",
+  "license": "MIT"
+}
