@@ -26,5 +26,13 @@
     "print"
   ],
   "author": "Dan Gaidula <dan@iceboxind.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgaidula/gemini-vectorize.git"
+  },
+  "homepage": "https://github.com/dgaidula/gemini-vectorize#readme",
+  "bugs": {
+    "url": "https://github.com/dgaidula/gemini-vectorize/issues"
+  }
 }
